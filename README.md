@@ -6,13 +6,11 @@ This business case has information of 100k orders from 2016 to 2018 made at one 
 
 2. Find time_to_delivery & diff_estimated_delivery. Formula for the same given below:
 
-# Sort the data to get the following:
+3. Top 5 states with highest/lowest average freight value - sort in desc/asc limit 5
 
-1. Top 5 states with highest/lowest average freight value - sort in desc/asc limit 5
+4. Top 5 states with highest/lowest average time to delivery
 
-2. Top 5 states with highest/lowest average time to delivery
-
-3. Top 5 states where delivery is really fast/ not so fast compared to estimated date
+5. Top 5 states where delivery is really fast/ not so fast compared to estimated date
 
 # Payment type analysis:
 
